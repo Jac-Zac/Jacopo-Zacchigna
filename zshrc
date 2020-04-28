@@ -4,7 +4,7 @@ HISTSIZE=10000
 
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
-export HOMEBREW_GITHUB_API_TOKEN="189ad79ab96677bb5e28b249a414bda3c0fbfd2f"
+export HOMEBREW_GITHUB_API_TOKEN="Your_key"
 
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/jaczac/.config/oh-my-zsh"
